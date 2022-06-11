@@ -1,4 +1,5 @@
 ## Simple calculator app built with Angular
+###Niranjan Mehra
 
 A simple calculator app built with Angular.
 
